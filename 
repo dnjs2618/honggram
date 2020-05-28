@@ -1,0 +1,17 @@
+[33mcommit 63d9227cf08a6602efddee07dcda4501804b5423[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sang won <dnjs2618@naver.com>
+Date:   Thu May 28 17:56:40 2020 +0900
+
+    hello prisma
+
+[33mcommit 6d8a4ad483a2430ad12195598022ae0a7232f63f[m
+Author: Sang won <dnjs2618@naver.com>
+Date:   Thu May 28 16:38:18 2020 +0900
+
+    schema
+
+[33mcommit fbbea78a3be2425803d52507357f8bfd459a5a68[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: dnjs2618 <51814173+dnjs2618@users.noreply.github.com>
+Date:   Thu May 28 13:36:59 2020 +0900
+
+    Initial commit
